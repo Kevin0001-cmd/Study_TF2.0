@@ -1211,7 +1211,7 @@ NN复杂度：多用NN层数和NN参数的个数表示
 ### 学习率
 
 $$
-w_{t+1}=w_{t}-l r * \frac{\partial l o s s}{\partial w_{t}}
+![image](https://user-images.githubusercontent.com/65957625/141440380-ae3c6284-8243-4361-a607-3538c4636052.png)
 $$
 
 参数说明
